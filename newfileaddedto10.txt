@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added to masteer branch
+=======
+added to 1.0 branch initially
+>>>>>>> issue01
